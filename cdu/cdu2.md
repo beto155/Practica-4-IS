@@ -1,10 +1,10 @@
-## Modificar Alumno
 
 ### **(ANVERSO)**
 
+**ID:** 004 **Modificar Alumno**
 
-**ID:** OO4 **Modificar Alumno**
 ---
+
 Como usuario quiero poder modificar los datos de un Alumno
 
 
@@ -16,6 +16,6 @@ Como usuario quiero poder modificar los datos de un Alumno
 
 ---
 
-**.** Quiero poder modificar cualquier dato de cualquier alumno
+ * Quiero poder modificar cualquier dato de cualquier alumno
 
 ---

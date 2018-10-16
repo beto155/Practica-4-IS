@@ -13,6 +13,16 @@ Eliminar alumno
 
 Mostrar alumno
 
+Ordenar alumnos (DNI, nombre, apellidos de forma ascendente y descendente)
+
+Importar datos (desde un fichero binario)
+
+Poder hacer una copia de seguridad
+
+Guardar datos (en el fichero binario)
+
+
+
 
 
 
@@ -21,9 +31,9 @@ Mostrar alumno
 
 ## No Funcionales
 
-El sistema tiene que poder cargar los datos desde un archivo binario.
-
 Ha de existir una copia de seguridad que tenga la forma de fichero binario.
+
+
 
 
 
