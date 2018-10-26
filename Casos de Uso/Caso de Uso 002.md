@@ -22,6 +22,6 @@
 
 **Flujos alternativos:**
 
-3.a. Si los datos no son correctos, se muestra un mensaje de error y se da la posibilidad de volver a introducirlos.
+2.a. Si los datos no son correctos, se muestra un mensaje de error y se da la posibilidad de volver a introducirlos.
 
-4.a. Si el alumno no existe o hay repetición por apellido, se muestra un mensaje de error correspondiente.
+3.a. Si el alumno no existe o hay repetición por apellido, se muestra un mensaje de error correspondiente.
