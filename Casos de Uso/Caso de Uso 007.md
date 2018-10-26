@@ -14,7 +14,7 @@
 2. El sistema carga los datos de la copia de seguridad en un buffer y los vuelca a un fichero binario.
 
 **Postcondiciones:**
-* El sistema imprime los nuevos datos como comprobación de la actualización.  
+* El sistema añade a nuestra base de datos (fichero binario) los datos importados.
 
 **Flujos alternativos:**  
 1.a. Si no existe una copia de seguridad, se crea.  

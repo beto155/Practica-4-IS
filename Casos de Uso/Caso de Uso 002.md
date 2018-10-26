@@ -17,7 +17,8 @@
 5. El sistema actualiza y guarda los datos introducidos por el usuario.
 
 **Postcondiciones:**
-* El sistema muestra el alumno con los datos modificados por pantalla.
+* El sistema guarda los datos que el usuario ha actualizado.
+* El sistema muestra el alumno con los datos actualizados.
 
 **Flujos alternativos:**
 
