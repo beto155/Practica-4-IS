@@ -16,7 +16,7 @@
 
 
 **Postcondiciones:**  
-   * El sistema muestra la copia de seguridad por pantalla como comprobación.
+   * El sistema crea la copia de seguridad.
 
 **Flujos alternativos:**  
 
