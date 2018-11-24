@@ -53,9 +53,9 @@
 
 * Guardar datos (en el fichero binario) (**ID: 009**)
 
+* registro en el sistema como usuario (**ID: 010**)
 
-
-
+* "login" de acceso al sistema (**ID: 011**)
 
 
 

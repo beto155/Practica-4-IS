@@ -14,6 +14,8 @@ Como usuario quiero poder eliminar los datos de un Alumno
 
 ---
 
-· Quiero poder eliminar cualquier alumno
+* Quiero poder eliminar cualquier alumno
+
+* Para ello necesito realizar una búsqueada que me permita seleccionar y eliminar el alumno que deseo eliminar
 
 ---

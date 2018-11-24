@@ -18,7 +18,7 @@
 
 &nbsp;&nbsp;&nbsp;**2.** Inserta los datos del el alumno
 
-&nbsp;&nbsp;&nbsp;**3.** Comprobación de los datos
+&nbsp;&nbsp;&nbsp;**3.** Comprobación de que los datos sean correctos
 
 **Postcondiciones:**
 

@@ -14,11 +14,13 @@
 
 **Flujo principal:**
 
-&nbsp;&nbsp;&nbsp;**1.** El caso de uso empieza cuando un alumno se quiere matricular en nuestra asignatura
+&nbsp;&nbsp;&nbsp;**1.** EL usuario realiza una búsqueda para ver los datos de un alumno en concreto
+
+&nbsp;&nbsp;&nbsp;**2.** El sistema muestra los datos del alumno que desea el usuario
 
 **Postcondiciones:**
 
-&nbsp;&nbsp;&nbsp;**·** Da la opcion de visualizarlos por Markdown, HTML o consola
+&nbsp;&nbsp;&nbsp;**·** Da la opción de visualizarlos por Markdown, HTML o consola
 
 &nbsp;&nbsp;&nbsp;**·** Pregunta si quiere visualizar todos los alumnos
 

@@ -16,6 +16,6 @@ Como usuario quiero poder modificar los datos de un Alumno
 
 ---
 
- * Quiero poder modificar cualquier dato de cualquier alumno
+ * Quiero poder modificar cualquier dato de cualquier alumno que desee y saber si es líder de grupo
 
 ---

@@ -9,7 +9,7 @@
 **Actores secundarios**: Alumno
 
 **Precondiciones**
-   1. El/los alumno/s debe/n de existir
+   1. El/los alumno/s debe/n de existir en la base de datos
 
 **Flujo principal**:
 
@@ -17,14 +17,16 @@
 
    2. El sistema realiza una búsqueda del alumno que se desea eliminar
 
-   3. El sistema comprueba si los datos de búsqueda son correctos
+   3. EL sistema ,para la búsqueada, pediría nuevamente los datos de nombre, apellido y DNI
 
-   4. El sistema da paso a la eliminación
+   4. El sistema comprueba si los datos de búsqueda son correctos
+
+   5. El sistema da paso a la eliminación
 
 **Postcondiciones:**
 
-   · El sistema realiza la eliminación
+   * El sistema realiza la eliminación
 
 **Flujos alternativos:**
 
-   4.a. en caso de no estar seguro, el sistema da la opción de continuar con el proceso o de revocarlo
+   5.a. en caso de no estar seguro, el sistema da la opción de continuar con el proceso o de revocarlo
