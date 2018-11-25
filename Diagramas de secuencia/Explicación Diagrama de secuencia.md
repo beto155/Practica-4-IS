@@ -1,6 +1,6 @@
 # **Diagrama de secuencia**
 
-## Funcionales
+## Definición
 
 Un diagrama de secuencia muestra la interacción de un conjunto de objetos en una aplicación a través del tiempo
 y se modela para cada caso de uso. A menudo es útil para complementar a un diagrama de clases,
@@ -9,4 +9,4 @@ por lo que ambos deben estar relacionados entre sí (mismas clases, métodos, at
 
 ## Estructura
 
-Los mensajes se dibujan cronológicamente desde la parte superior del diagrama a la parte inferior; la distribución horizontal de los objetos es arbitraria. 
+Los mensajes se dibujan cronológicamente desde la parte superior del diagrama a la parte inferior; la distribución horizontal de los objetos es arbitraria.

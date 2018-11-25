@@ -1,0 +1,18 @@
+# **Diagrama de Clases**
+
+## Definición
+
+En ingeniería de software, un diagrama de clases en Lenguaje Unificado de Modelado (UML) es un tipo de diagrama de estructura estática que describe la estructura de un sistema mostrando las clases del sistema, sus atributos, operaciones (o métodos), y las relaciones entre los objetos.
+
+## Explicación
+
+en este diagrama de clases se pretende hacer una estructura del programa donde
+se diferencian 4 elementos diferentes:
+
+  · Usuario: Es la persona que realiza las operaciones que considera oportunas para interactuar con el sistema
+
+  · Operaciones: son el conjunto de acciones con las que el usuario es capaz de interactuar el sistema, el conjunto de operaciones que tiene el usuario a su disposición vienen detalladas en el propio diagrama de clases o en los casos de uso si el usuario lo considera más oportuno.
+
+  · Sistema: Se puede considerar como la base de toso, si el sistema desaparece todo lo demás carece de sentido, permite al usuario realizar el proyecto que desea mediante las operaciones descritas previamente.
+
+  · Base de Datos (BBDD): Otorga al sistema un lugar donde poder guardar los ficheros y/o archivos que desea y a su vez realizar diversas acciones con los mismos como duplicar o importarlos.
