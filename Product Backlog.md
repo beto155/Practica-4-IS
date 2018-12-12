@@ -1,4 +1,14 @@
-## Product Backlog
+# Product Backlog
+
+#### Al principio de todo el proyecto voy a definir las clases necesario para el proyecto:
+
+* Clase alumno: se estima una duración de "90 minutos"
+
+* Clase profesor: se estima una duración de "90 minutos"
+
+* Clase agenda: se estima una duración de "90 minutos"
+
+#### Ahora se realiza una representación de la duración y prioridad de cada historial de usuario:
 
 **Historia de usuario 001 (Insertar alumno):** Contiene una prioridad de orden "1" y el tiempo empleado en ella es de "120 minutos".
 
@@ -16,7 +26,7 @@
 
 **Historia de usuario 008 (Crear copia de seguridad):** Contiene una prioridad de orden "5" y el tiempo empleado en ella es de "120 minutos".
 
-**Historia de usuario 009 (Guarar Datos):** Contiene una prioridad de orden "9" y el tiempo empleado en ella es de "180 minutos".
+**Historia de usuario 009 (Guardar Datos):** Contiene una prioridad de orden "9" y el tiempo empleado en ella es de "180 minutos".
 
 **Historia de usuario 010 (Registro de usuario):** Contiene una prioridad de orden "8" y el tiempo empleado en ella es de "120 minutos".
 
